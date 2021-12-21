@@ -1,3 +1,6 @@
+## Olá, seja bem vindo! eu sou o Thiago, criador e mantenedor deste repositório :)
+
+
 - 👋 Hi, I’m @webthiagosilva
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
