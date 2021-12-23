@@ -5,3 +5,4 @@
 <br/>
 <h4 align="left"> 🚧  Seleção de conteudos 🚀 Em construção..  🚧</h4>
 <br/>
+<i class="far fa-address-card"></i>
