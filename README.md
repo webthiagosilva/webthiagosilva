@@ -3,5 +3,5 @@
     Eu sou o Thiago Silva, criador e mantenedor destes repositórios :)
 
 <br/>
-<h4 align="center"> 🚧  Seleção de conteudos 🚀 Em construção..  🚧</h4>
+<h4 align="left"> 🚧  Seleção de conteudos 🚀 Em construção..  🚧</h4>
 <br/>
