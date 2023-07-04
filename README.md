@@ -1,24 +1,22 @@
-# Olá, Bem-vindo(a) ao meu GitHub! 
+# Olá, Bem-vindo(a)! 
 
-![Banner](https://i.imgur.com/8z0RAF3.gif)
+![Banner](https://fotodicasbrasil.com.br/wp-content/uploads/2018/04/2.5-Fotos-Panor%C3%A2micas-Inspiradoras-e-Como-Tirar-as-Suas-Pr%C3%B3prias.jpg)
 
-## Sobre Mim
+## Sobre Mim 📝
 
-Meu nome é **Thiago Silva** e atualmente atrabalho como Analista Desenvolvedor de Software.
+Sou o **Thiago Silva**, Analista Desenvolvedor de Software com um passado diversificado. Antes de me encontrar no universo da programação, eu atuei na contabilidade, no suporte técnico e com vendas de software. Hoje, utilizo essa experiência para criar soluções eficientes e focadas no usuário.
 
-Antes de me aprofundar no mundo da programação, comecei minha carreira profissional como assistente contábil durante 5 anos em um escritório de contabilidade. Meu próximo passo foi cair de vez na area tecnica atuando como Analista de Suporte Técnico durante 2 anos em uma empresa de software ERP. Ao ganhar experiência e habilidades técnicas, me tornei um Programador Full Stack Júnior e líder de TI em uma empresa de crédito, onde fiquei por 2 anos. Depois disso, trabalhei como programador back-end júnior em uma empresa de delivery de comida. Atualmente sou Analista Desenvolvedor de Software Pleno em uma empresa de marketing digital.
-
-Minha diversificada experiência de trabalho não apenas me deu uma compreensão profunda da tecnologia e suas aplicações, mas também me permitiu desenvolver uma variedade de soft skills.
+Com a minha experiência em várias áreas, desenvolvi um conjunto de habilidades que vão além do desenvolvimento de software:
 
 ## 🧠 Habilidades Interpessoais
 
 Durante o meu tempo no mercado de trabalho, desenvolvi uma série de habilidades interpessoais que considero valiosas:
 
-- **Liderança:** Gerenciei um departamento de t.i, onde pude desenvolver habilidades de liderança, como delegação eficaz, comunicação, tomada de decisão e resolução de conflitos.
+- **Liderança:** Habilidades de liderança, como delegação eficaz, comunicação, tomada de decisão e resolução de conflitos.
 
-- **Atendimento ao Cliente:** Trabalhando como analista de suporte técnico, aprendi a importância do excelente atendimento ao cliente. Esta experiência me ensinou paciência, empatia, habilidades de escuta ativa e a capacidade de gerenciar eficazmente as expectativas do cliente.
+- **Atendimento ao Cliente:** Paciência, empatia, habilidades de escuta ativa e a capacidade de gerenciar eficazmente as expectativas do cliente.
 
-- **Contabilidade:** Minha experiência como assistente contábil me deu um sólido conhecimento em contabilidade principalmente na area fiscal, me permitindo compreender melhor os aspectos legais, administrativa e financeiros dos projetos.
+- **Contabilidade:** Conhecimento sólido em contabilidade, fornecendo uma compreensão mais profunda dos aspectos administrativos, legais e financeiros dos projetos.
 
 ## 💻 Habilidades Técnicas
 
@@ -30,6 +28,8 @@ Abaixo estão algumas das habilidades técnicas que adquiri ao longo da minha ca
 `PHP        ` ![PHP](https://progress-bar.dev/80)  
 `SQL        ` ![SQL](https://progress-bar.dev/80)  
 `Laravel    ` ![Laravel](https://progress-bar.dev/70)  
+`Codeigniter` ![Laravel](https://progress-bar.dev/70)  
+`CakePHP    ` ![Laravel](https://progress-bar.dev/70)  
 `Node.js    ` ![Nodejs](https://progress-bar.dev/60)  
 `Vue.js     ` ![Vuejs](https://progress-bar.dev/50)  
 `React.js   ` ![Reactjs](https://progress-bar.dev/50)  
@@ -45,6 +45,8 @@ Abaixo estão algumas das habilidades técnicas que adquiri ao longo da minha ca
 `C#         ` ![C#](https://progress-bar.dev/40)  
 `Tailwind   ` ![Tailwind](https://progress-bar.dev/30)  
 `Bootstrap  ` ![Bootstrap](https://progress-bar.dev/50)
+
+## Entre em Contato 💌
 
 Se você acha que podemos trabalhar juntos em algum projeto ou apenas gostaria de conversar, fique à vontade para me contatar!
 
