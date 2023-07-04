@@ -22,29 +22,17 @@ Durante o meu tempo no mercado de trabalho, desenvolvi uma série de habilidades
 
 Abaixo estão algumas das habilidades técnicas que adquiri ao longo da minha carreira e utilizo no meu dia a dia:
 
-`HTML       ` ![HTML](https://progress-bar.dev/50)  
-`CSS        ` ![CSS](https://progress-bar.dev/30)  
-`JavaScript ` ![JavaScript](https://progress-bar.dev/60)  
-`PHP        ` ![PHP](https://progress-bar.dev/80)  
-`SQL        ` ![SQL](https://progress-bar.dev/80)  
-`Laravel    ` ![Laravel](https://progress-bar.dev/70)  
-`Codeigniter` ![Laravel](https://progress-bar.dev/70)  
-`CakePHP    ` ![Laravel](https://progress-bar.dev/70)  
-`Node.js    ` ![Nodejs](https://progress-bar.dev/60)  
-`Vue.js     ` ![Vuejs](https://progress-bar.dev/50)  
-`React.js   ` ![Reactjs](https://progress-bar.dev/50)  
-`Bootstrap  ` ![Bootstrap](https://progress-bar.dev/70)  
-`MongoDB    ` ![MongoDB](https://progress-bar.dev/40)  
-`MySQL      ` ![MySQL](https://progress-bar.dev/80)  
-`SQL Server ` ![SQLServer](https://progress-bar.dev/50)  
-`Docker     ` ![Docker](https://progress-bar.dev/80)  
-`Kubernetes ` ![Kubernetes](https://progress-bar.dev/60)  
-`Bash       ` ![Bash](https://progress-bar.dev/50)  
-`Python     ` ![Python](https://progress-bar.dev/50)  
-`Java       ` ![Java](https://progress-bar.dev/40)  
-`C#         ` ![C#](https://progress-bar.dev/40)  
-`Tailwind   ` ![Tailwind](https://progress-bar.dev/30)  
-`Bootstrap  ` ![Bootstrap](https://progress-bar.dev/50)
+| Linguagens | Frameworks | Infraestrutura |
+| --- | --- | --- |
+| `HTML       ` ![HTML](https://progress-bar.dev/50) | `Laravel    ` ![Laravel](https://progress-bar.dev/70) | `Docker     ` ![Docker](https://progress-bar.dev/80) |
+| `CSS        ` ![CSS](https://progress-bar.dev/30) | `Codeigniter` ![Codeigniter](https://progress-bar.dev/70) | `Kubernetes ` ![Kubernetes](https://progress-bar.dev/60) |
+| `JavaScript ` ![JavaScript](https://progress-bar.dev/60) | `CakePHP    ` ![CakePHP](https://progress-bar.dev/70) | `Bash       ` ![Bash](https://progress-bar.dev/50) |
+| `PHP        ` ![PHP](https://progress-bar.dev/80) | `Node.js    ` ![Nodejs](https://progress-bar.dev/60) | |
+| `SQL        ` ![SQL](https://progress-bar.dev/80) | `Vue.js     ` ![Vuejs](https://progress-bar.dev/50) | |
+| `Python     ` ![Python](https://progress-bar.dev/50) | `React.js   ` ![Reactjs](https://progress-bar.dev/50) | |
+| `Java       ` ![Java](https://progress-bar.dev/40) | `Bootstrap  ` ![Bootstrap](https://progress-bar.dev/70) | |
+| `C#         ` ![C#](https://progress-bar.dev/40) | `Tailwind   ` ![Tailwind](https://progress-bar.dev/30) | |
+
 
 ## Entre em Contato 💌
 
