@@ -1,5 +1,5 @@
 # Olá, Bem-vindo(a)! 
-![Banner](https://giphy.com/embed/Jb94R6P4uLCUM)
+![Banner](https://giphy.com/embed/Jb94R6P4uLCUM](https://img.freepik.com/fotos-premium/uma-placa-de-circuito-azul-e-roxa-com-um-fundo-azul_777078-7018.jpg?w=1380))
 
 ## Sobre Mim 📝
 
