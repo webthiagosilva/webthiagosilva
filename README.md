@@ -1,6 +1,5 @@
 # Olá, Bem-vindo(a)! 
-<iframe src="https://giphy.com/embed/Jb94R6P4uLCUM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animated-dinosaurs-Jb94R6P4uLCUM">via GIPHY</a></p>
-![Banner]()
+![Banner](https://giphy.com/embed/Jb94R6P4uLCUM)
 
 ## Sobre Mim 📝
 
