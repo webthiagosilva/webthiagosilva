@@ -1,6 +1,6 @@
 # Olá, Bem-vindo(a)! 
-
-![Banner](https://fotodicasbrasil.com.br/wp-content/uploads/2018/04/2.5-Fotos-Panor%C3%A2micas-Inspiradoras-e-Como-Tirar-as-Suas-Pr%C3%B3prias.jpg)
+<iframe src="https://giphy.com/embed/Jb94R6P4uLCUM" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animated-dinosaurs-Jb94R6P4uLCUM">via GIPHY</a></p>
+![Banner]()
 
 ## Sobre Mim 📝
 
