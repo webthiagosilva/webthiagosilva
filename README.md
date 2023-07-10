@@ -6,7 +6,7 @@
 
 Sou o **Thiago Silva**, Analista Desenvolvedor Full Stack.
 
-Já atuei nos setores de contabilidade, suporte técnico e vendas de software. Hoje, utilizo essa experiência para criar soluções eficientes e focadas no usuário.
+Já atuei em algumas aréas, como contabilidade, suporte técnico e vendas de software. Hoje, utilizo essa experiência para criar soluções eficientes e focadas no usuário.
 
 ## 🧠 Habilidades Interpessoais
 
