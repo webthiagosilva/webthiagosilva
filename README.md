@@ -13,13 +13,9 @@ Já atuei em algumas aréas, como contabilidade, suporte técnico e vendas de so
 Durante minha jornada profissional, desenvolvi uma série de habilidades interpessoais que considero valiosas:
 
 - **Liderança;**
-
 - **Comunicação;**
-
 - **Criatividade;**
-
 - **Profissionalismo;**
-
 - **Adaptabilidade;**
 
 ## 💻 Habilidades Técnicas
