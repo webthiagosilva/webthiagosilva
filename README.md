@@ -23,14 +23,14 @@ Algumas das habilidades técnicas que adquiri ao longo da minha carreira e utili
 
 | Linguagens | Frameworks | Infraestrutura |
 | --- | --- | --- |
-| `HTML       ` ![HTML](https://progress-bar.dev/50) | `Laravel    ` ![Laravel](https://progress-bar.dev/70) | `Docker     ` ![Docker](https://progress-bar.dev/80) |
-| `CSS        ` ![CSS](https://progress-bar.dev/30) | `Codeigniter` ![Codeigniter](https://progress-bar.dev/70) | `Kubernetes ` ![Kubernetes](https://progress-bar.dev/60) |
-| `JavaScript ` ![JavaScript](https://progress-bar.dev/60) | `CakePHP    ` ![CakePHP](https://progress-bar.dev/70) | `Bash       ` ![Bash](https://progress-bar.dev/50) |
-| `PHP        ` ![PHP](https://progress-bar.dev/80) | `Node.js    ` ![Nodejs](https://progress-bar.dev/60) | |
-| `SQL        ` ![SQL](https://progress-bar.dev/80) | `Vue.js     ` ![Vuejs](https://progress-bar.dev/50) | |
-| `Python     ` ![Python](https://progress-bar.dev/50) | `React.js   ` ![Reactjs](https://progress-bar.dev/50) | |
-| `Java       ` ![Java](https://progress-bar.dev/40) | `Bootstrap  ` ![Bootstrap](https://progress-bar.dev/70) | |
-| `C#         ` ![C#](https://progress-bar.dev/40) | `Tailwind   ` ![Tailwind](https://progress-bar.dev/30) | |
+| `HTML       ` ![HTML](/50) | `Laravel    ` ![Laravel](/70) | `Docker     ` ![Docker](/80) |
+| `CSS        ` ![CSS](/30) | `Codeigniter` ![Codeigniter](/70) | `Kubernetes ` ![Kubernetes](/60) |
+| `JavaScript ` ![JavaScript](/60) | `CakePHP    ` ![CakePHP](/70) | `Bash       ` ![Bash](/50) |
+| `PHP        ` ![PHP](/80) | `Node.js    ` ![Nodejs](/60) | |
+| `SQL        ` ![SQL](/80) | `Vue.js     ` ![Vuejs](/50) | |
+| `Python     ` ![Python](/50) | `React.js   ` ![Reactjs](/50) | |
+| `Java       ` ![Java](/40) | `Bootstrap  ` ![Bootstrap](/70) | |
+| `C#         ` ![C#](/40) | `Tailwind   ` ![Tailwind](/30) | |
 
 
 ## Entre em Contato 💌
