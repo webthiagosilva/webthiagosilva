@@ -130,12 +130,10 @@
                 <img src="https://img.shields.io/github/repo-size/thiagosilva/project" alt="Repository Size">
             </div>
         </header>
-
         <section>
             <h2>About Me <i class="fas fa-user"></i></h2>
             <p>I'm Thiago Silva, Software Developer with experience in different areas. Currently, my focus is on creating efficient and user-centric solutions.</p>
         </section>
-
         <section>
             <h2>Interpersonal Skills <i class="fas fa-users"></i></h2>
             <ul>
@@ -146,7 +144,6 @@
                 <li><i class="fas fa-sync-alt icon"></i> Adaptability</li>
             </ul>
         </section>
-
         <section>
             <h2>Technical Skills <i class="fas fa-laptop-code"></i></h2>
             <table class="skills-table">
@@ -186,7 +183,6 @@
                 </tbody>
             </table>
         </section>
-
         <section>
             <h2>Contact Me <i class="fas fa-envelope"></i></h2>
             <a href="https://www.linkedin.com/in/webthiagosilva" class="contact-link">Visit my LinkedIn</a>
