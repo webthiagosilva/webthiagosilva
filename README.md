@@ -123,7 +123,7 @@
             <h1>Thiago Silva</h1>
             <p class="highlight">Full Stack Developer</p>
             <div class="badges">
-                <img src="https://img.shields.io/github/followers/thiagosilva?label=Followers&style=social&value=2" alt="GitHub Followers">
+                <img src="https://img.shields.io/github/followers/thiagosilva?label=Followers&style=social&rlink=2" alt="GitHub Followers">
                 <img src="https://img.shields.io/github/stars/thiagosilva?label=GitHub%20Stars&style=social" alt="GitHub Stars">
                 <img src="https://img.shields.io/github/commit-activity/y/thiagosilva" alt="Commit Activity">
                 <img src="https://img.shields.io/github/issues-pr-closed/thiagosilva" alt="Closed Pull Requests">
